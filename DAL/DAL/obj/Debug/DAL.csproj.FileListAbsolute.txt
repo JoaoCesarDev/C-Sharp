@@ -1,0 +1,29 @@
+C:\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Loja Bike Master\DAL\DAL\bin\Debug\DAL.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\DAL.pdb
+C:\Loja Bike Master\DAL\DAL\bin\Debug\Modelos.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\MySql.Data.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\Google.Protobuf.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\Renci.SshNet.dll
+C:\Loja Bike Master\DAL\DAL\bin\Debug\Modelos.pdb
+C:\Loja Bike Master\DAL\DAL\bin\Debug\MySql.Data.xml
+C:\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Loja Bike Master\DAL\DAL\obj\Debug\DAL.dll
+C:\Loja Bike Master\DAL\DAL\obj\Debug\DAL.pdb
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\DAL.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\DAL.pdb
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\Modelos.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\Google.Protobuf.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\Renci.SshNet.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\Modelos.pdb
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\bin\Debug\MySql.Data.xml
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\obj\Debug\DAL.dll
+C:\Sistemas João César\Loja Bike Master\DAL\DAL\obj\Debug\DAL.pdb

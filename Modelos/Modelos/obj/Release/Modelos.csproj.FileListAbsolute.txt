@@ -1,0 +1,5 @@
+C:\Loja Bike Master\Modelos\Modelos\bin\Release\Modelos.dll
+C:\Loja Bike Master\Modelos\Modelos\bin\Release\Modelos.pdb
+C:\Loja Bike Master\Modelos\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Loja Bike Master\Modelos\Modelos\obj\Release\Modelos.dll
+C:\Loja Bike Master\Modelos\Modelos\obj\Release\Modelos.pdb

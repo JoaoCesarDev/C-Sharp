@@ -1,0 +1,7 @@
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.csprojAssemblyReference.cache
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.Formclientes.resources
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.frmrentbike.resources
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.frmconfig.resources
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.Properties.Resources.resources
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.csproj.GenerateResource.cache
+C:\Loja Bike Master\APRESENTAÇÃO\obj\Debug\APRESENTAÇÃO.csproj.CoreCompileInputs.cache

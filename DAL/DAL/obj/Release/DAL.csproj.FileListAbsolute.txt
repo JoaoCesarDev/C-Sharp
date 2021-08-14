@@ -1,0 +1,15 @@
+C:\Loja Bike Master\DAL\DAL\bin\Release\DAL.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\DAL.pdb
+C:\Loja Bike Master\DAL\DAL\bin\Release\Modelos.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\MySql.Data.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\Google.Protobuf.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\BouncyCastle.Crypto.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\Ubiety.Dns.Core.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\Renci.SshNet.dll
+C:\Loja Bike Master\DAL\DAL\bin\Release\Modelos.pdb
+C:\Loja Bike Master\DAL\DAL\bin\Release\MySql.Data.xml
+C:\Loja Bike Master\DAL\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Loja Bike Master\DAL\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Loja Bike Master\DAL\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Loja Bike Master\DAL\DAL\obj\Release\DAL.dll
+C:\Loja Bike Master\DAL\DAL\obj\Release\DAL.pdb

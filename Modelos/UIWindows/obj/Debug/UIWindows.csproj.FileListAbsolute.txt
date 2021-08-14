@@ -1,0 +1,124 @@
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.exe
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.pdb
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\BLL.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\DAL.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\Modelos.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\MySql.Data.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\Google.Protobuf.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\BouncyCastle.Crypto.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\Ubiety.Dns.Core.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\Renci.SshNet.dll
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\BLL.pdb
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\DAL.pdb
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\Modelos.pdb
+C:\Loja Bike Master\Modelos\UIWindows\bin\Debug\MySql.Data.xml
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csprojAssemblyReference.cache
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.Formclientes.resources
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.frmconfig.resources
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.CopyComplete
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.exe
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.pdb
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.UIWindows.Formprincipal.resources
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.UIWindows.Frmlogin.resources
+C:\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmprodutos.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.exe
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\UIWindows.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\BLL.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\DAL.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Modelos.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Google.Protobuf.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\BouncyCastle.Crypto.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Ubiety.Dns.Core.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Renci.SshNet.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\BLL.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\DAL.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Modelos.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\MySql.Data.xml
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csprojAssemblyReference.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.UIWindows.Formprincipal.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.Formclientes.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.frmconfig.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\APRESENTAÇÃO.UIWindows.Frmlogin.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmprodutos.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.csproj.CopyComplete
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.exe
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmvendas.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.FrmExtornovendas.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formconsultacliente.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmconsultaprodutos.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmfornecedores.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formconsultafornecedor.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\EnvDTE.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\stdole.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\Microsoft.MSXML.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formusuarios.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formconsultausuarios.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formconfigpermissoes.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Formperfil.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\UIWindows.Frmrelatorioclientes.resources
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\RdlCompile.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\UIWindows\obj\Debug\RdlCompile.compiled

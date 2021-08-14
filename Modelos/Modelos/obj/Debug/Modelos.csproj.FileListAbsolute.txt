@@ -1,0 +1,12 @@
+C:\Loja Bike Master\Modelos\Modelos\bin\Debug\Modelos.dll
+C:\Loja Bike Master\Modelos\Modelos\bin\Debug\Modelos.pdb
+C:\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.dll
+C:\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\bin\Debug\Modelos.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\bin\Debug\Modelos.pdb
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.dll
+C:\Sistemas João César\Loja Bike Master\Modelos\Modelos\obj\Debug\Modelos.pdb
